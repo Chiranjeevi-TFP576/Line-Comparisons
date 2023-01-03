@@ -3,4 +3,5 @@ using Line_Comparisons;
 
 //Console.WriteLine("Welcome To Line Comparisons Problems");
 //UC1_LengthOfTheLine.LengthOfLines();
-UC2_TwoLinesEqual.TwoLinesAreEquals();
+//UC2_TwoLinesEqual.TwoLinesAreEquals();
+UC3_Compare_Two_Lines.ComparedTwoLines();
